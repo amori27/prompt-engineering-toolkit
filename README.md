@@ -1,4 +1,6 @@
 # Prompt Engineering Toolkit
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A comprehensive toolkit for advanced prompt engineering techniques including chain-of-thought reasoning, few-shot learning, and template-based prompt generation.
 
