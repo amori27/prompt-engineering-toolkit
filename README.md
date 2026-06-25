@@ -20,7 +20,7 @@ This toolkit provides reusable components and templates for building sophisticat
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/prompt-engineering-toolkit.git
+git clone https://github.com/amori27/prompt-engineering-toolkit.git
 cd prompt-engineering-toolkit
 pip install -r requirements.txt
 ```
